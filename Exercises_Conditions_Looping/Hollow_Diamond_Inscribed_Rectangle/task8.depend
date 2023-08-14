@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1685170568 source:e:\c program\task8\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1685171182 source:e:\c program\task_condition_looping\task9\main.c
+	<stdio.h>
+	<stdlib.h>
+

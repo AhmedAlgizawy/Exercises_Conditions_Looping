@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1684925831 source:e:\c program\task5.1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1684925831 source:e:\c program\task_condition_looping\diamond_pattern\task5.1\main.c
+	<stdio.h>
+	<stdlib.h>
+
